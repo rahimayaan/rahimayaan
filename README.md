@@ -13,12 +13,12 @@
 
 
 ```
-- 👋 Hi, I’m Mohd Anash khan
+- 👋 Hi, I’m Mohd Ayaan Rahim
 - 👀 I’m interested in Computers and Sciences.
 - 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
 - 🏫 I'm currently studying DSA And AI technolgoies.
 - 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society.
-- 📫 You can reach me khananask908@gmail.com 
+- 📫 You can reach me rahimayaan134@gmail.com
 ```
 
 
